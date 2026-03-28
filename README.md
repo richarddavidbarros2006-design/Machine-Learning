@@ -1,4 +1,4 @@
-# Resumo: Introdução à Linguagem Python
+# Introdução à Linguagem Python
 
 ## 📌 O que é Python
 Python é uma linguagem de programação de alto nível, interpretada, multiplataforma e de propósito geral. Seu principal foco está na simplicidade, legibilidade e produtividade, tornando-a ideal tanto para iniciantes quanto para profissionais.
